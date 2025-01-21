@@ -1,1 +1,1 @@
-# IPYNBRENDERER
+# IPYNBRENDERER python package
